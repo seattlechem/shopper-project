@@ -1,5 +1,4 @@
 """Profile apps."""
-
 from django.apps import AppConfig
 
 
