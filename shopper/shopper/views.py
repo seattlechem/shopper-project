@@ -1,6 +1,4 @@
 """Views for main end."""
-
-
 from django.shortcuts import render
 
 
